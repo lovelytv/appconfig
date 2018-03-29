@@ -4,7 +4,7 @@
     "provider":"youtube",
     "image": "http://images.indianexpress.com/2018/01/rcb-logo-759.jpg",
     "arguments":[
-      "RoyalChallengersTV", "channel"
+      "RoyalChallengersTV", "user"
     ]
   },
   {
