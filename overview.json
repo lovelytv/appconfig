@@ -32,11 +32,39 @@
     ]
   },
   {
-    "title":"Hot Trailers",
+    "title":"Sunrisers Hyderabad",
     "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=967",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
     "arguments":[
-      "PLrEnWoR732-CvU2EIng1mKhlXJHvaiAVM", "playlist"
+      "PLGAVeyRfr_j_lUB2CfflMQZigyjnbbQ9Z", "playlist"
+    ]
+  },{
+    "title":"Kings XI Punjab",
+    "provider":"youtube",
+    "image":"http://s3.india.com/wp-content/uploads/2018/01/kings.jpg",
+    "arguments":[
+      "PLOlZv1izu1bdyeeXvDppS92OOWxWBJhuV", "playlist"
+    ]
+  },{
+    "title":"Delhi Daredevils",
+    "provider":"youtube",
+    "image":"http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335975.png",
+    "arguments":[
+      "PLOlZv1izu1bdyeeXvDppS92OOWxWBJhuV", "playlist"
+    ]
+  },{
+    "title":"Delhi Daredevils",
+    "provider":"youtube",
+    "image":"http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335975.png",
+    "arguments":[
+      "PL5D9Y7vN2j2OS_ozfLnr6lrnRxB0HOoaP", "playlist"
+    ]
+  },{
+    "title":"Rajasthan Royals",
+    "provider":"youtube",
+    "image":"http://images.indianexpress.com/2018/01/rajasthan-royals-759.png",
+    "arguments":[
+      "PLfveNM81E11kWCaxsP9Kh01RC5RBcb5y5", "playlist"
     ]
   }
 
