@@ -4,31 +4,31 @@
     "provider":"youtube",
     "image": "http://images.indianexpress.com/2018/01/rcb-logo-759.jpg",
     "arguments":[
-      "RoyalChallengersTV", "user"
+      "PLzauy2wRdpIEwxebn47Ny9Efl-0pQviQW", "playlist"
     ]
   },
   {
-    "title":"Inspiring Stories",
+    "title":"Chennai Super Kings",
     "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=998",
+    "image":"http://www.thesportsmirror.com/wp-content/uploads/2018/02/Chennai-Super-Kings-2018.jpg",
     "arguments":[
-      "PLrEnWoR732-AtjHiRPQD7-Xaqa3SaXo-4", "playlist"
+      "PL0mvcuoBTdznzt4OuCyWpPBQ_gxAoGIef", "playlist"
     ]
   },
   {
-    "title":"Look Good, Feel Good",
+    "title":"Mumbai Indians",
     "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=856",
+    "image":"https://i1.wp.com/www.insidesport.co/wp-content/uploads/2017/03/mumbai-indian-.jpg?fit=1068%2C713&ssl=1",
     "arguments":[
-      "PLrEnWoR732-ByK1fe0UAOPbvy5TF5SALg", "playlist"
+      "PL-KnbPtxpFMxLYHl2iTlPqy_SRKHmBV2Kn", "playlist"
     ]
   },
   {
-    "title":"Game Overload",
+    "title":"Kolkata Knight Riders",
     "provider":"youtube",
     "image":"https://unsplash.it/720/480?image=96",
     "arguments":[
-      "PLrEnWoR732-CFfUX4TPybGxiO7q_5OS8D", "playlist"
+      "http://s3.india.com/wp-content/uploads/2017/02/kkr.jpg", "playlist"
     ]
   },
   {
