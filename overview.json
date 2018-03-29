@@ -12,7 +12,7 @@
     "provider":"youtube",
     "image":"http://www.thesportsmirror.com/wp-content/uploads/2018/02/Chennai-Super-Kings-2018.jpg",
     "arguments":[
-      "PL0mvcuoBTdznzt4OuCyWpPBQ_gxAoGIef", "playlist"
+      "PLd9n2bnyMaDk6_4oAu2fVdBlNeuctrB5q", "playlist"
     ]
   },
   {
@@ -20,15 +20,15 @@
     "provider":"youtube",
     "image":"https://i1.wp.com/www.insidesport.co/wp-content/uploads/2017/03/mumbai-indian-.jpg?fit=1068%2C713&ssl=1",
     "arguments":[
-      "PL-KnbPtxpFMxLYHl2iTlPqy_SRKHmBV2Kn", "playlist"
+      "PLV6j0PyeRGkAdtq49zRTNf_TtoESNzhKd", "playlist"
     ]
   },
   {
     "title":"Kolkata Knight Riders",
     "provider":"youtube",
-    "image":"https://unsplash.it/720/480?image=96",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
     "arguments":[
-      "http://s3.india.com/wp-content/uploads/2017/02/kkr.jpg", "playlist"
+      "PLV6j0PyeRGkAXOIw8OsBjTE37maA0z738", "playlist"
     ]
   },
   {
@@ -50,14 +50,7 @@
     "provider":"youtube",
     "image":"http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335975.png",
     "arguments":[
-      "PLOlZv1izu1bdyeeXvDppS92OOWxWBJhuV", "playlist"
-    ]
-  },{
-    "title":"Delhi Daredevils",
-    "provider":"youtube",
-    "image":"http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335975.png",
-    "arguments":[
-      "PL5D9Y7vN2j2OS_ozfLnr6lrnRxB0HOoaP", "playlist"
+      "PLaZpb-YlkgEZ-wqc4mGaifvXskK1oYccc", "playlist"
     ]
   },{
     "title":"Rajasthan Royals",
