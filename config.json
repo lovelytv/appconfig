@@ -52,10 +52,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Times Of India",
+        "title":"ESPN",
         "provider":"rss",
         "arguments":[
-          "https://timesofindia.indiatimes.com/rssfeeds/4719161.cms"
+          "http://www.espncricinfo.com/rss/content/story/feeds/6.xml"
         ]
       },
       {
@@ -64,14 +64,8 @@
         "arguments":[
           "https://www.kingcricket.co.uk/feed/"
         ]
-      },
-      {
-        "title":"Cric Buzz",
-        "provider":"rss",
-        "arguments":[
-          "http://live-feeds.cricbuzz.com/CricbuzzFeed?format=xml"
-        ]
       }
+
     ]
   },
   {
