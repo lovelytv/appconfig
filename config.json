@@ -6,12 +6,21 @@
     "iap":false,
     "tabs":[
       {
-        "title":"World News",
+        "title":"All News",
         "provider":"wordpress",
         "arguments":[
           "paperdabba.com"
         ]
+      },{
+        "title":"Match Schedule",
+        "provider":"wordpress",
+        "arguments":[
+          "liveiplcricket2018.wordpress.com"
+
+        ]
       },
+      {
+      
       {
         "title":"World Cricket",
         "provider":"wordpress",
