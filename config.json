@@ -40,7 +40,7 @@
         "title":"Live TV",
         "provider":"stream",
         "arguments":[
-        "https://broadcast2.kantipurtv.com:8081"
+        "http://broadcast2.kantipurtv.com:8081"
         ]
       }
     ]
