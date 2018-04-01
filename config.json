@@ -9,7 +9,7 @@
         "title":"All News",
         "provider":"wordpress",
         "arguments":[
-          "paperdabba.com"
+          "paperdabba.com","Sports &amp; Games"
         ]
       },{
         "title":"Match Schedule",
