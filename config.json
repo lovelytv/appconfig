@@ -40,7 +40,7 @@
         "title":"Live TV",
         "provider":"stream",
         "arguments":[
-        "http://80.82.78.192:8088/live/sonysixvbbb/playlist.m3u8?id=31241&wowzasessionid=3551893464&pk=27c74e116d7ec589292c2be77731ae9265a37eec7c1c430cbef668c465ee1351"
+        "http://80.82.78.192:8088/live/sonysixvbbb/playlist.m3u8?id=31241&wowzasessionid=3551893464"
         ]
       }
     ]
