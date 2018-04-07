@@ -37,10 +37,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Live TV",
-        "provider":"stream",
+        "title":"Live IPL",
+        "provider":"youtube",
         "arguments":[
-        "http://80.82.78.192:8088/live/sonysixvbbb/playlist.m3u8?id=31241&wowzasessionid=3551893464"
+        "https://youtu.be/rD7IH6o5Keo","live"
         ]
       }
     ]
